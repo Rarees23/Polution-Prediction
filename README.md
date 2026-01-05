@@ -29,8 +29,3 @@ for multiple cities using supervised regression.
 - Public environmental data
 - No personal data (GDPR-safe)
 - Not for medical or regulatory use
-
-## How to Run
-```bash
-pip install -r requirements.txt
-python src/models/train.py
